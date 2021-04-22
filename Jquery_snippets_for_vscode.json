@@ -360,7 +360,7 @@
     },
     "JQuery Ajax Boilerplate": {
         "prefix": "jquery-ajax-boilerplate",
-        "body": ["method: \"\",", "url: \"\",", "data: {},", "dataType: \"\",", "success: function() {}"],
+        "body": ["method: \"\",", "url: \"\",", "data: {},", "dataType: \"\",", "success: function() {},", "error: function() {}"],
         "description": "JQuery Ajax Boilerplate"
     }
 }
