@@ -4,6 +4,7 @@
     // Creation Date: 02/04/2021
     // Update Date: 06/04/2021
     // Update Date: 07/04/2021
+    // Update Date: 22/04/2021
 
     // *********************************************************
     // =================== JQuery Snippets =====================
@@ -356,5 +357,10 @@
         "prefix": ".ready",
         "body": [".ready()"],
         "description": "JQuery Event Methods - ready (Jquery snippet)"
+    },
+    "JQuery Ajax Boilerplate": {
+        "prefix": "jquery-ajax-boilerplate",
+        "body": ["method: \"\",", "url: \"\",", "data: {},", "dataType: \"\",", "success: function() {}"],
+        "description": "JQuery Ajax Boilerplate"
     }
 }
